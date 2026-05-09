@@ -1,0 +1,11 @@
+# Video processing configuration
+# Set the path(s) to the folder(s) containing videos to process
+# You can specify multiple VIDEO_FOLDER_PATH entries to process multiple folders
+# Examples of supported path formats:
+# Windows: VIDEO_FOLDER_PATH="C:\Users\username\Videos"
+# macOS/Linux: VIDEO_FOLDER_PATH="/Users/username/Videos" or VIDEO_FOLDER_PATH="~/Videos"
+# Cross-platform using home: VIDEO_FOLDER_PATH="~/Documents/Videos"
+
+VIDEO_FOLDER_PATH="E:\1 Genshin Impact\2409-01 Raiden Shogun Guide V3\Footage\New Idles"
+# VIDEO_FOLDER_PATH="~/Desktop/GameClips"
+# VIDEO_FOLDER_PATH="C:\Users\username\Downloads\Videos"

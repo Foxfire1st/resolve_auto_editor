@@ -1,0 +1,47 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.pytest_cache/
+.cache
+
+# Virtual environments
+.venv/
+venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Local data/config
+.env
+.DS_Store
+
+# Outputs
+*.json
+data/*
+!data/**/.gitkeep
+scripts/dev/*.log
+outputs
+src/gateway/vision/video_embedder/samples
+src/gateway/audio/vo_script_alignment/samples/
+/samples
+/tools
+src/gateway/vision/meta_data_generator/tools/ffmpeg.exe
+src/gateway/vision/meta_data_generator/tools/ffprobe.exe
+
+dry_run_output.txt
+
+.tmp_drt
+.githubn
+.cache
+resolve_auto_editor.code-workspace
+
+profiles/hsr/data/video_segments.db

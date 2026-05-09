@@ -1,0 +1,136 @@
+hello log test
+ok 2025-12-01 21:48:28.116517+00:00
+
+==== 2025-12-01T21:48:40.086459+00:00 query='Feixiao uses her skill' max_results=20 ====
+01. video=topazrobinMOC2 score=0.629 caption=[00:06] Unknown event - Feixiao uses her Technique.
+02. video=topazrobinMOC4 score=0.598 caption=[00:05.40] Unknown event - Feixiao uses a Technique. - Tags: Enhance
+03. video=topazrobinMOC4 score=0.596 caption=[00:00.80] Unknown event - Feixiao uses a Technique. - Tags: Enhance
+04. video=topazrobinAS score=0.583 caption=[00:07.60] Unknown event - Feixiao's Technique applies "Weakness". - Tags: Weakness
+05. video=mozerobinAS score=0.581 caption=[00:07.40] Unknown event - Feixiao's attack reveals a weakness. - Tags: Weakness, Feixiao
+06. video=mozerobinAS score=0.579 caption=[01:01.20] Unknown event - Feixiao uses her Skill, 'Waraxe'. - Tags: Waraxe
+07. video=mozerobinAS score=0.578 caption=[00:46.40] Unknown event - Feixiao uses her Skill, 'Waraxe'. - Tags: Waraxe
+08. video=mozerobinAS score=0.578 caption=[03:09.20] Unknown event - Feixiao uses her Skill, 'Waraxe'. - Tags: Waraxe
+09. video=topazRMMOC score=0.577 caption=[00:05.60] Unknown event - Feixiao uses her Technique, preparing for an enhanced battle entry. - Tags: Enhance
+10. video=marchrobinMOC score=0.577 caption=[01:45.80] Unknown event - Feixiao uses her Skill, 'Waraxe'. - Tags: Waraxe
+11. video=mozerobinAS score=0.577 caption=[04:41] Unknown event - Feixiao uses her Skill, 'Waraxe'. - Tags: Waraxe
+12. video=mozerobinAS score=0.577 caption=[02:15.20] Unknown event - Feixiao uses her Skill, 'Waraxe'. - Tags: Waraxe
+13. video=mozerobinAS score=0.576 caption=[02:06.80] Unknown event - Feixiao uses her Skill, 'Waraxe'. - Tags: Waraxe
+14. video=marchrobinMOC score=0.576 caption=[02:17.20] Unknown event - Feixiao uses her Skill, 'Waraxe'. - Tags: Waraxe
+15. video=mozerobinMOC score=0.573 caption=[00:05] Unknown event - Feixiao's Technique applies Weakness to enemies. - Tags: Weakness
+16. video=topazrobinMOC2 score=0.570 caption=[00:07] Unknown event - Feixiao's Technique hits an enemy, showing 'Weakness'. - Tags: Weakness
+17. video=mozerobinAS score=0.570 caption=[04:40] Unknown event - Feixiao prepares to use a single target attack. - Tags: Single Target
+18. video=marchrobinMOC score=0.570 caption=[00:34.80] Unknown event - Feixiao's turn. She targets an enemy. - Tags: Single Target
+19. video=topazRMMOC score=0.569 caption=[00:06.80] Unknown event - Feixiao's Technique hits an enemy, showing 'Weakness'. - Tags: Weakness
+20. video=marchbronyaMOC score=0.568 caption=[00:05.80] Unknown event - Feixiao's Technique attack applies 'Weakness' to an enemy. - Tags: Weakness
+
+==== 2025-12-01T21:48:45.929319+00:00 query='Feixiao uses her skill' max_results=20 filter=full4star ====
+01. video=full4star score=0.566 caption=[01:26.80] Unknown event - Feixiao uses her Skill 'Waraxe'. - Tags: Waraxe, ATK Boost
+02. video=full4star score=0.560 caption=[01:10.40] Unknown event - Feixiao's Ultimate animation plays.
+03. video=full4star score=0.560 caption=[00:33] Unknown event - Feixiao's Ultimate animation plays.
+04. video=full4star score=0.559 caption=[02:49.60] Unknown event - Feixiao's Ultimate animation plays.
+05. video=full4star score=0.559 caption=[02:25.40] Unknown event - Feixiao's Ultimate animation plays.
+06. video=full4star score=0.559 caption=[03:33.80] Unknown event - Feixiao's Ultimate animation plays.
+07. video=full4star score=0.546 caption=[00:03.20] Unknown event - Feixiao uses her Technique, 'Stormborn', entering the 'Onrush' state. - Tags: Stormborn, Onrush
+08. video=full4star score=0.546 caption=[03:32.40] Unknown event - Feixiao uses her Ultimate, 'Terrasplit'. - Tags: Terrasplit
+09. video=full4star score=0.546 caption=[01:08.60] Unknown event - Feixiao uses her Ultimate, 'Terrasplit'. - Tags: Terrasplit
+10. video=full4star score=0.546 caption=[00:31.60] Unknown event - Feixiao uses her Ultimate, 'Terrasplit'. - Tags: Terrasplit
+11. video=full4star score=0.545 caption=[02:23.60] Unknown event - Feixiao uses her Ultimate, 'Terrasplit'. - Tags: Terrasplit
+12. video=full4star score=0.545 caption=[03:51.40] Unknown event - Feixiao's turn begins. - Tags: Your Turn
+13. video=full4star score=0.544 caption=[00:30.80] Unknown event - Feixiao's turn begins. - Tags: Your Turn
+14. video=full4star score=0.544 caption=[01:51.20] Unknown event - Feixiao's turn begins. - Tags: Your Turn
+15. video=full4star score=0.544 caption=[02:48.20] Unknown event - Feixiao uses her Ultimate, 'Terrasplit'. - Tags: Terrasplit
+16. video=full4star score=0.543 caption=[03:20.80] Unknown event - Feixiao's turn begins. - Tags: Your Turn
+17. video=full4star score=0.543 caption=[00:47.20] Unknown event - Feixiao's turn begins. - Tags: Your Turn
+18. video=full4star score=0.543 caption=[01:25.60] Unknown event - Feixiao's turn begins. - Tags: Your Turn
+19. video=full4star score=0.542 caption=[02:45] Unknown event - Feixiao's turn begins. - Tags: Your Turn
+20. video=full4star score=0.539 caption=[00:09] Unknown event - Feixiao's Technique hits multiple enemies, dealing 9704 CRIT Hit damage to each, contributing to a total damage of 29112. - Tags: Weakness, CRIT Hit, 9704, TOTAL DAMAGE, 29112
+
+==== 2025-12-01T21:48:51.560280+00:00 query='Feixiao uses her ultimate' max_results=20 ====
+01. video=full4star score=0.604 caption=[02:49.60] Unknown event - Feixiao's Ultimate animation plays.
+02. video=full4star score=0.604 caption=[01:10.40] Unknown event - Feixiao's Ultimate animation plays.
+03. video=full4star score=0.604 caption=[03:33.80] Unknown event - Feixiao's Ultimate animation plays.
+04. video=full4star score=0.603 caption=[02:25.40] Unknown event - Feixiao's Ultimate animation plays.
+05. video=full4star score=0.602 caption=[00:33] Unknown event - Feixiao's Ultimate animation plays.
+06. video=topazrobinMOC2 score=0.601 caption=[00:06] Unknown event - Feixiao uses her Technique.
+07. video=topazRMMOC score=0.591 caption=[00:42] Unknown event - Feixiao's Ultimate continues, dealing critical damage, totaling 132815 damage. - Tags: TOTAL DAMAGE, 132815, CRIT Hit, 44271
+08. video=topazRMMOC score=0.590 caption=[01:20.20] Unknown event - Feixiao's Ultimate continues, dealing critical damage, totaling 145966 damage. - Tags: TOTAL DAMAGE, 145966, CRIT Hit, 4271, 13306
+09. video=topazRMMOC score=0.590 caption=[01:20.80] Unknown event - Feixiao's Ultimate continues, dealing critical damage, totaling 209533 damage. - Tags: TOTAL DAMAGE, 209533, CRIT Hit, 4271, 12938
+10. video=topazrobinfullE0S0 score=0.589 caption=[02:08.60] Unknown event - Feixiao's Ultimate animation is playing. - Tags: TOTAL DAMAGE, 17915
+11. video=topazrobinfullE0S0 score=0.589 caption=[01:36.20] Unknown event - Feixiao's Ultimate animation is playing. - Tags: TOTAL DAMAGE, 32995
+12. video=topazRMMOC score=0.589 caption=[02:53.80] Unknown event - Feixiao's Ultimate continues, dealing critical damage, totaling 129786 damage. - Tags: TOTAL DAMAGE, 129786, CRIT Hit, 43262, 44262
+13. video=topazRMMOC score=0.588 caption=[00:43.20] Unknown event - Feixiao's Ultimate continues, dealing critical damage, totaling 202964 damage. - Tags: TOTAL DAMAGE, 202964, CRIT Hit, 44271, 12938
+14. video=topazrobinfullE0S0 score=0.588 caption=[02:45.80] Unknown event - Feixiao's Ultimate animation is playing. - Tags: TOTAL DAMAGE, 14663
+15. video=topazrobinE0S0ButCruisingIsS5 score=0.588 caption=[00:51.60] Unknown event - Feixiao's Ultimate deals final hits, totaling 166926 damage. - Tags: 37461, CRIT Hit, Total Damage, 166926
+16. video=topazRMMOC score=0.588 caption=[01:21.40] Unknown event - Feixiao's Ultimate continues, dealing critical damage, totaling 258724 damage. - Tags: TOTAL DAMAGE, 258724, CRIT Hit, 4271, 4919
+17. video=topazRMMOC score=0.587 caption=[02:02] Unknown event - Feixiao's Ultimate continues, dealing critical damage, totaling 259552 damage. - Tags: TOTAL DAMAGE, 259552, CRIT Hit, 4919, 44271
+18. video=topazRMAS score=0.587 caption=[02:00.40] Unknown event - Feixiao uses her Ultimate, 'Terrasplit'. - Tags: Terrasplit
+19. video=topazrobinASfullE0S1 score=0.586 caption=[02:00.60] Unknown event - Feixiao uses her Ultimate, 'Terrasplit'. - Tags: Terrasplit
+20. video=topazRMMOC score=0.586 caption=[02:54.40] Unknown event - Feixiao's Ultimate continues, dealing critical damage, totaling 185160 damage. - Tags: TOTAL DAMAGE, 185160, CRIT Hit, 43262, 12112
+
+==== 2025-12-01T21:48:57.360442+00:00 query='Feixiao idle animation' max_results=20 ====
+01. video=idle 5 score=0.602 caption=[00:15] Unknown event - Feixiao continues her idle loop. Her ears twitch slightly, and she shifts her weight and gaze subtly. Background NPCs can be seen standing and sitting in the distance. - Tags: Idle Animation
+02. video=idle 6 score=0.600 caption=[00:15] Unknown event - Feixiao continues her idle stance. She blinks and makes subtle head movements, looking slightly to the side and then back forward. The lighting remains consistent, highlighting her fox ears and silver hair. - Tags: Feixiao, Idle Animation
+03. video=idle 6 score=0.597 caption=[00:30] Unknown event - Feixiao maintains her position. The camera angle is static, focusing on her upper body and the scenic background. The ambient motion of the environment (floating platforms, distant ships) continues. - Tags: Feixiao, Idle Animation
+04. video=idle 9 score=0.596 caption=[00:25] Unknown event - Feixiao lowers her head slightly and closes her eyes. Her fox ears twitch and swivel, as if listening to the surroundings, before she returns to her neutral pose. - Tags: idle animation
+05. video=idle 4 score=0.590 caption=[00:00] Unknown event - Feixiao is seen performing an idle animation. She wields her large gunblade-axe weapon, swinging it around her body with fluid motions. - Tags: Feixiao, Idle Animation
+06. video=idle 4 score=0.584 caption=[00:06] Unknown event - She swings the weapon to her side, where it dissolves into teal particles. She then adjusts her jacket and settles into a standing idle pose. - Tags: Feixiao, Idle Animation
+07. video=idle 2 score=0.584 caption=[00:00] Unknown event - Feixiao stands in a plaza on the Xianzhou Luofu. She begins an idle animation by bringing her hands together, adjusting her black gloves. - Tags: Feixiao, Idle Animation
+08. video=idle 2 score=0.583 caption=[00:05] Unknown event - She lets go of her hair, allowing it to settle, and returns to her neutral standing pose, looking forward. - Tags: Feixiao, Idle Animation
+09. video=intro score=0.580 caption=[00:00] Unknown event - Feixiao stands in a relaxed idle pose against a solid green background. Her eyes are closed, and she maintains a gentle smile. Her chest rises and falls rhythmically with her breathing, and her fox ears and silver hair sway slightly in a subtle idle motion. She wears her standard white coat over a teal bodice. No UI elements or other characters are visible. - Tags: Feixiao, Idle, Green Screen
+10. video=idle 6 score=0.578 caption=[00:00] Unknown event - Feixiao stands facing the camera in an idle pose. The background features the purple-hued night sky of the Xianzhou Luofu, with starskiffs flying in the distance and traditional architecture visible. Feixiao breathes gently, her white coat and blue outfit swaying slightly in the ambient wind. Particles drift through the air. - Tags: Feixiao, Idle Animation, Xianzhou Luofu
+11. video=idle 8 score=0.577 caption=[00:00] Unknown event - Feixiao stands in an idle pose, facing the camera. She wears her signature white and blue outfit. Behind her is a large, tiered bronze mechanism that rotates slowly. Two concentric rings of teal energy swirl around the mechanism, and small green spirit wisps float in the air. The environment features bamboo and stone railings, indicative of the Xianzhou Luofu. - Tags: Feixiao, Idle Animation, Environment
+12. video=idle 8 score=0.576 caption=[00:31] Unknown event - Feixiao closes her eyes briefly in a slow blink, then opens them again, continuing her idle stance. - Tags: Feixiao, Facial Animation
+13. video=idle 2 score=0.576 caption=[00:03] Unknown event - Feixiao finishes adjusting her gloves, then reaches back with her right hand to smooth out her long white ponytail. - Tags: Feixiao, Idle Animation
+14. video=idle 2 score=0.569 caption=[00:10] Unknown event - Feixiao remains in her neutral idle stance. The camera holds steady, showing background NPCs walking and standing near a shop with green awnings. - Tags: Feixiao, Idle Loop
+15. video=idle 4 score=0.567 caption=[00:10] Unknown event - Feixiao remains in her idle stance, looking forward with one hand on her hip. Her tail sways gently behind her. The camera remains static, showing the plaza environment with water features and NPCs in the background. - Tags: Feixiao, Idle Loop
+16. video=idle 3 score=0.561 caption=[00:00] Unknown event - Feixiao stands in the center of the frame, facing the camera. She is positioned on a walkway in a dock area, with several starskiffs and traditional Xianzhou architecture visible in the background. A watermark at the bottom left reads: "This is the Creator Experience Version and all its content is still under development. Please refer to the official version for the finalized content." followed by a UID. Throughout the clip, Feixiao remains in a standing idle pose; her motion consists of rhythmic breathing, blinking, and the occasional twitch of her fox ears. The camera remains completely static. - Tags: Feixiao, Idle Animation, Creator Experience Version
+17. video=idle 7 score=0.553 caption=[00:15] Unknown event - Feixiao continues her idle breathing loop. Her white fox ears twitch occasionally, and her hair and coat tails sway gently in the ambient wind. She blinks and maintains a focused expression toward the camera. - Tags: Ambient Motion
+18. video=idle 11 score=0.552 caption=[00:00] Unknown event - Feixiao stands on a stone balcony with a decorative railing, facing the camera. The environment is the Shackling Prison, characterized by massive stone pillars, hanging chains, and a floor of molten lava emitting a warm orange glow. Green spirit particles float in the air. Feixiao is in her idle stance, breathing rhythmically with her arms at her sides. Her fox ears twitch occasionally. A watermark at the bottom left reads: "This is the Creator Experience Version, and all its content is still under development." - Tags: Feixiao, The Shackling Prison, Idle Animation
+19. video=full4star score=0.547 caption=[00:33] Unknown event - Feixiao's Ultimate animation plays.
+20. video=full4star score=0.546 caption=[03:33.80] Unknown event - Feixiao's Ultimate animation plays.
+
+==== 2025-12-02T00:23:58.097580+00:00 query='Feixiao uses her ultimate' windows ====
+01. window=True video=sparklerun_comp score=0.606 span=(0.00-174.50) caption=[00:00] Unknown event - Feixiao runs toward the enemy group in the arena. The UI shows 'The Big Sleep Stage 12' and obje
+02. window=True video=ratioSig score=0.133 span=(0.00-132.50) caption=[00:00] Unknown event - Aventurine uses his Technique, spinning a roulette wheel above his head to grant a DEF buff. - T
+03. window=True video=marchrobin0c score=0.106 span=(0.00-188.13) caption=[00:00] Unknown event - The player is on the stage selection screen, showing objectives and character lineup. - Tags: Th
+04. window=True video=sparklerun score=0.094 span=(0.00-175.50) caption=[00:00] Unknown event - The player is in 'The Big Sleep Stage 12' of Memory of Chaos, with 30 cycles remaining. The part
+05. window=True video=marchrobinAS score=0.093 span=(0.00-257.68) caption=[00:00] Unknown event - The player is in the pre-battle phase of 'Dominated Evils: Difficulty 4'. The objective is to de
+06. window=True video=marchabronyaAS score=0.092 span=(0.00-320.12) caption=[00:00] Unknown event - The game displays the current score and objectives. Feixiao is the active character. - Tags: Dom
+07. window=True video=marchrobinMOC score=0.091 span=(0.00-171.62) caption=[00:00.60] Unknown event - Aventurine uses his Technique, 'The Red or the Black', to apply a DEF Boost effect before ent
+08. window=True video=topazrobinE0S0ButCruisingIsS5 score=0.087 span=(0.00-166.02) caption=[00:00] Unknown event - The screen displays the objectives for 'The Big Sleep Stage 12' in Pure Fiction mode, along with
+09. window=True video=full4star score=0.086 span=(0.00-251.50) caption=[00:00] Unknown event - The pre-battle screen displays the stage name, enemy level, objectives, and current party member
+10. window=True video=marchbronyaMOC score=0.085 span=(0.00-191.10) caption=[00:00.20] Unknown event - The remaining cycles for the challenge are displayed as 30. - Tags: Remaining Cycles: 30 [00:
+11. window=True video=mozerobinMOC score=0.084 span=(0.00-205.50) caption=[00:00.80] Unknown event - Aventurine uses his Technique, 'The Red or the Black', before entering combat. - Tags: Enhanc
+12. window=True video=run 1 score=0.082 span=(0.00-90.50) caption=[00:00] Unknown event - Feixiao is the active character in exploration mode. She activates her Technique 'Stormborn', en
+13. window=True video=topazRMAS score=0.079 span=(0.00-246.63) caption=[00:01] Unknown event - Aventurine uses his Technique, 'The Red or the Black', which randomly grants one of three DEF Bo
+14. window=True video=topazrobinASfullE0S1 score=0.079 span=(0.00-219.67) caption=[00:00.60] Unknown event - Aventurine uses his Technique, 'The Red or the Black', which grants a defense buff. - Tags: D
+15. window=True video=topazrobinfullE0S0 score=0.079 span=(0.00-177.92) caption=[00:00] Unknown event - The game starts in 'The Big Sleep Stage 12' with 30 remaining cycles. The party consists of Feix
+
+==== 2025-12-02T00:25:17.253201+00:00 query='Feixiao uses her ultimate' windows ====
+01. window=True video=sparklerun_comp score=0.600 span=(35.00-37.50) count=1 caption=[00:36] Unknown event - Feixiao casts her Ultimate 'Terrasplit'. The animation shows her slicing through a blue dimension, dealing massive W
+02. window=True video=sparklerun_comp score=0.598 span=(62.00-76.50) count=4 caption=[01:03] Unknown event - Feixiao uses her Skill 'Waraxe' on the Voidranger: Trampler, followed by a follow-up attack. - Tags: Feixiao, Skill 
+03. window=True video=sparklerun_comp score=0.594 span=(126.00-132.50) count=2 caption=[02:07] Unknown event - Robin casts her Ultimate 'Vox Harmonique, Opus Cosmique', refreshing the Concerto state. - Tags: Robin, Ultimate [02
+04. window=True video=sparklerun_comp score=0.560 span=(82.00-97.50) count=3 caption=[01:23] Unknown event - Wave 2 begins against a Howling Casket and Stellaron Hunter: Kafka. 'Memory Turbulence' deals damage to the new enem
+05. window=True video=sparklerun_comp score=0.553 span=(0.00-18.50) count=9 caption=[00:00] Unknown event - Feixiao runs toward the enemy group in the arena. The UI shows 'The Big Sleep Stage 12' and objectives like 'Remaini
+06. window=True video=sparklerun_comp score=0.552 span=(159.00-168.50) count=2 caption=[02:40] Unknown event - Feixiao uses 'Waraxe' on Kafka, followed by a follow-up attack. - Tags: Feixiao, Skill [02:47] Unknown event - Avent
+07. window=True video=sparklerun_comp score=0.545 span=(112.00-122.50) count=4 caption=[01:53] Unknown event - Stellaron Hunter: Kafka uses 'Midnight Tumult' and 'Spirit Whisper' on Aventurine. - Tags: Enemy Turn, Kafka [01:55]
+08. window=True video=sparklerun_comp score=0.541 span=(140.00-153.50) count=3 caption=[02:21] Unknown event - Aventurine uses his Basic ATK 'Straight Bet'. - Tags: Aventurine, Basic ATK [02:24] Unknown event - Sparkle uses her
+09. window=True video=sparklerun_comp score=0.489 span=(42.00-53.50) count=4 caption=[00:43] Unknown event - A stage mechanic 'Memory Imprint' triggers, dealing damage to all enemies. - Tags: Stage Mechanic [00:45] Unknown ev
+10. window=True video=sparklerun_comp score=0.479 span=(21.00-29.50) count=3 caption=[00:22] Unknown event - Aventurine casts his Ultimate 'Roulette Shark', dropping giant coins on the enemies. This triggers his Talent 'Shot 
+11. window=True video=sparklerun_comp score=0.466 span=(100.00-102.50) count=1 caption=[01:41] Unknown event - Sparkle casts her Ultimate 'The Hero with a Thousand Faces'. - Tags: Sparkle, Ultimate
+12. window=True video=sparklerun_comp score=0.455 span=(57.00-59.50) count=1 caption=[00:58] Unknown event - Sparkle casts her Ultimate 'The Hero with a Thousand Faces', creating a kaleidoscope effect and recovering Skill Poi
+13. window=True video=sparklerun_comp score=0.395 span=(105.00-107.50) count=1 caption=[01:46] Unknown event - Aventurine casts his Ultimate 'Roulette Shark', followed by his Talent's follow-up attack. - Tags: Aventurine, Ultim
+14. window=True video=sparklerun_comp score=0.332 span=(172.00-174.50) count=1 caption=[02:53] Unknown event - Kafka is defeated, and the battle ends. - Tags: Battle Over
+15. window=True video=ratioSig score=0.139 span=(122.00-132.50) count=4 caption=[02:03] Unknown event - Feixiao uses her Skill on the Howling Casket. - Tags: Skill, Waraxe [02:07] Unknown event - Topaz uses her Skill on 
+
+==== 2025-12-02T00:25:27.611050+00:00 query='Feixiao ultimate description' windows ====
+01. window=True video=sparklerun_comp score=0.527 span=(35.00-37.50) count=1 caption=[00:36] Unknown event - Feixiao casts her Ultimate 'Terrasplit'. The animation shows her slicing through a blue dimension, dealing massive Wind DMG to the Howli
+02. window=True video=sparklerun_comp score=0.508 span=(126.00-132.50) count=2 caption=[02:07] Unknown event - Robin casts her Ultimate 'Vox Harmonique, Opus Cosmique', refreshing the Concerto state. - Tags: Robin, Ultimate [02:11] Unknown event -
+03. window=True video=sparklerun_comp score=0.482 span=(159.00-168.50) count=2 caption=[02:40] Unknown event - Feixiao uses 'Waraxe' on Kafka, followed by a follow-up attack. - Tags: Feixiao, Skill [02:47] Unknown event - Aventurine casts his Ulti
+04. window=True video=sparklerun_comp score=0.472 span=(82.00-97.50) count=3 caption=[01:23] Unknown event - Wave 2 begins against a Howling Casket and Stellaron Hunter: Kafka. 'Memory Turbulence' deals damage to the new enemies. - Tags: Battle 
+05. window=True video=sparklerun_comp score=0.454 span=(140.00-153.50) count=3 caption=[02:21] Unknown event - Aventurine uses his Basic ATK 'Straight Bet'. - Tags: Aventurine, Basic ATK [02:24] Unknown event - Sparkle uses her Skill 'Dreamdiver' 
+06. window=True video=sparklerun_comp score=0.444 span=(62.00-76.50) count=4 caption=[01:03] Unknown event - Feixiao uses her Skill 'Waraxe' on the Voidranger: Trampler, followed by a follow-up attack. - Tags: Feixiao, Skill [01:09] Unknown even
+07. window=True video=sparklerun_comp score=0.420 span=(0.00-18.50) count=9 caption=[00:00] Unknown event - Feixiao runs toward the enemy group in the arena. The UI shows 'The Big Sleep Stage 12' and objectives like 'Remaining Cycles: 30'. - Ta
+08. window=True video=sparklerun_comp score=0.414 span=(21.00-29.50) count=3 caption=[00:22] Unknown event - Aventurine casts his Ultimate 'Roulette Shark', dropping giant coins on the enemies. This triggers his Talent 'Shot Loaded Right', launc
+09. window=True video=sparklerun_comp score=0.408 span=(112.00-122.50) count=4 caption=[01:53] Unknown event - Stellaron Hunter: Kafka uses 'Midnight Tumult' and 'Spirit Whisper' on Aventurine. - Tags: Enemy Turn, Kafka [01:55] Unknown event - Ave
+10. window=True video=sparklerun_comp score=0.394 span=(100.00-102.50) count=1 caption=[01:41] Unknown event - Sparkle casts her Ultimate 'The Hero with a Thousand Faces'. - Tags: Sparkle, Ultimate

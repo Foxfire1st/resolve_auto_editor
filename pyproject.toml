@@ -1,0 +1,61 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "auto-editor"
+version = "0.1.0"
+description = "Local-first DaVinci Resolve auto-editor tooling"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "foxfire"}]
+license = {text = "MIT"}
+dependencies = [
+  "fastapi>=0.110",
+  "ffmpeg-python>=0.2",
+  "uvicorn>=0.27",
+  "pydantic>=2.6",
+  "python-dotenv>=1.0",
+  "opentimelineio>=0.15",
+  "httpx>=0.27",
+  "numpy>=1.26",
+  "opencv-python>=4.9",
+  "scikit-learn>=1.5",
+  "sentencepiece>=0.2",
+  "soundfile>=0.12",
+  "typer>=0.12",
+  "google-genai>=0.5.0",
+  "wordfreq>=3.0.0",
+  "yake>=0.4.8",
+]
+
+[project.optional-dependencies]
+alignment = [
+  "stable-ts>=2.16",
+  "torch>=2.2",
+  "torchaudio>=2.2",
+]
+dev = [
+  "pytest>=8.1",
+  "pytest-mock>=3.12",
+  "ruff>=0.3",
+]
+videoprism = [
+  "absl-py>=2.1",
+  "einops>=0.7",
+  "einshape>=1.0",
+  "flax>=0.8",
+  "huggingface-hub>=0.24",
+  "imageio[ffmpeg]>=2.34",
+  "jax>=0.4.28",
+  "sentencepiece>=0.2",
+  "tensorflow-cpu>=2.15",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+minversion = "8.0"
+addopts = "-ra"
+testpaths = ["src"]
